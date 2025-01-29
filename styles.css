@@ -1,0 +1,27 @@
+
+.container{
+ 
+    width:800px;
+    height:100vh;
+    align-content: center;
+background-color: grey
+}
+.background {
+    background-color: grey;
+    
+}
+h1 {
+    margin-top:50px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+
+}
+
+
+
+    .bclogo {
+        display: block; /* Makes the image behave like a block element */
+        margin: 0 auto; /* Automatically adjusts left and right margins to center */
+}
